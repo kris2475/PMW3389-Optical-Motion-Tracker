@@ -8,7 +8,7 @@ A high-precision, real-time Pygame tracking dashboard and kinematic analyzer for
 
 The hardware setup interfaces an ESP32 development board with a PMW3389 optical flow sensor via SPI[cite: 3, 4].
 
-![ESP32 and PMW3389 Sensor Wiring on Breadboard](IMG20261023102052.jpg)
+![ESP32 and PMW3389 Sensor Wiring on Breadboard](Optical_Motion_Tracker/IMG20261023102052.jpg)
 *Figure 1: ESP32 micro-controller wired to the PMW3389 optical sensor module on a breadboard.*
 
 ### Pin Mapping Reference
