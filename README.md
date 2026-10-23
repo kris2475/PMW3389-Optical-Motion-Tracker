@@ -37,7 +37,7 @@ The hardware setup interfaces an ESP32 development board with a PMW3389 optical 
 
 ---
 
-## 🛠️ Requirements & Dependencies
+## Requirements & Dependencies
 
 Make sure you have Python installed along with the required libraries:
 
