@@ -7,7 +7,7 @@ A high-precision, real-time Pygame tracking dashboard and kinematic analyzer for
 ## Live Demo
 
 <p align="center">
-  <video src="Optical_Motion_Tracker/Recording%202026-10-23%20173654.mp4" autoplay loop muted playsinline width="750"></video>
+  <img src="Optical_Motion_Tracker/Recording2026-10-23173654-ezgif.com-gif-maker.gif" alt="Real-time optical tracking dashboard displaying live trajectory, SQUAL surface telemetry, speed, and heading compass." width="750"/>
   <br>
   <em>Figure 1: Real-time optical tracking dashboard displaying live trajectory, SQUAL surface telemetry, speed, and heading compass.</em>
 </p>
