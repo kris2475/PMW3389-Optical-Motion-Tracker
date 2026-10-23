@@ -4,6 +4,16 @@ A high-precision, real-time Pygame tracking dashboard and kinematic analyzer for
 
 ---
 
+## Live Demo
+
+<p align="center">
+  <video src="Optical_Motion_Tracker/Recording%202026-10-23%20173654.mp4" autoplay loop muted playsinline width="750"></video>
+  <br>
+  <em>Figure 1: Real-time optical tracking dashboard displaying live trajectory, SQUAL surface telemetry, speed, and heading compass.</em>
+</p>
+
+---
+
 ## Hardware Setup & Wiring
 
 The hardware setup interfaces an ESP32 development board with a PMW3389 optical flow sensor via SPI.
@@ -11,7 +21,7 @@ The hardware setup interfaces an ESP32 development board with a PMW3389 optical 
 <p align="center">
   <img src="Optical_Motion_Tracker/IMG20261023102052.jpg" alt="ESP32 and PMW3389 Sensor Wiring on Breadboard" width="450"/>
   <br>
-  <em>Figure 1: ESP32 micro-controller wired to the PMW3389 optical sensor module on a breadboard.</em>
+  <em>Figure 2: ESP32 micro-controller wired to the PMW3389 optical sensor module on a breadboard.</em>
 </p>
 
 ### Pin Mapping Reference
